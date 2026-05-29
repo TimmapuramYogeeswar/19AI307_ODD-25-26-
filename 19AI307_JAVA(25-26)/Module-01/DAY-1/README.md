@@ -30,8 +30,8 @@ To write a Java program that demonstrates the use of variables, data types, oper
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: GANESH D
-RegisterNumber:  212223240035
+Developed by: TIMMAPURAM YOGEESWAR
+RegisterNumber:  212223230233
 */
 ```
 
